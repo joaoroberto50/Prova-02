@@ -1,3 +1,4 @@
+# Codigo final da questao 01 da segunda prova de construçao dealgoritimos
 x = 0
 lista = []
 lista1 = []
