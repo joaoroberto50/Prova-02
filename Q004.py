@@ -1,3 +1,4 @@
+# Codigo final da questao 04 da segunda prova de construçao dealgoritimos
 def troca(s, velho, novo):
     b = ''
     aux = ''
