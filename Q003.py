@@ -1,3 +1,4 @@
+# Codigo final da questao 03 da segunda prova de construçao dealgoritimos
 mtz1 = [[1,6,8,11],[3,1,0,-3],[9,-6,-2,0],[0,-1,3,7]]
 mtz2 = [[-3,0,0,0],[1,6,0,-1],[-3,9,5,-2],[0,0,1,-4]]
 
